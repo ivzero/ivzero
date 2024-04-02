@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil 
 
  <div>
    <a href="https://github.com/ivzero">
@@ -11,9 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
 
 </div>
- 
-<br>
- 
+
 ### Contatos e redes abaixo!
  
 <div> 
